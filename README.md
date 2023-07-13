@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Jiyoung Lee (Ji) 
-Email: eji0130@gmail.com
-Blog: [blog.naver.com/rasingriver](https://blog.naver.com/rasingriver)
+Jiyoung Lee (Ji) \n
+Email: eji0130@gmail.com \n
+Blog: [blog.naver.com/rasingriver](https://blog.naver.com/rasingriver) \n
 LinkedIn: [linkedin.com/in/jiyoung-lee-b62663211](https://www.linkedin.com/in/jiyoung-lee-b62663211/)
 
 Skills
