@@ -21,14 +21,22 @@ LinkedIn: [linkedin.com/in/jiyoung-lee-b62663211](https://www.linkedin.com/in/ji
 
 Skills
 🛠️ Techs that I've used at least once:
-Python pyenv FastAPI Airflow TensorFlow scikit learn Java Linux Pandas Numpy Databricks Beautifulsoup Selenium
+![image](https://github.com/ez0130/ez0130/assets/75259368/3fd8b832-1bb8-42dc-b5c1-7fb110dca73d)
+![image](https://github.com/ez0130/ez0130/assets/75259368/bfd804ad-98a2-4e95-b88d-ac1856593cad)
+![image](https://github.com/ez0130/ez0130/assets/75259368/20f4f0d2-371f-4e93-9f36-4525c85bdf03)
+![image](https://github.com/ez0130/ez0130/assets/75259368/a5c362bf-6644-4e33-892d-9b5cea9dbe23)
+![image](https://github.com/ez0130/ez0130/assets/75259368/668979f1-3302-405b-85fe-67cf25fca9d0)
+![image](https://github.com/ez0130/ez0130/assets/75259368/e2859e92-f4b6-4da2-bac5-d459776dc5fb)
+![image](https://github.com/ez0130/ez0130/assets/75259368/ddf9931f-536b-40da-93ab-4eceda2bbf89)
+![image](https://github.com/ez0130/ez0130/assets/75259368/c19d693f-9bfe-439e-98cc-73a16f3c6c02)
+![image](https://github.com/ez0130/ez0130/assets/75259368/2a869e75-8409-423a-a1ad-c92256366cce)
+![image](https://github.com/ez0130/ez0130/assets/75259368/2299f2bd-3718-48cc-a219-b698352076cf)
+![image](https://github.com/ez0130/ez0130/assets/75259368/dfaa6cbb-7adf-4202-81f3-2f837aaabd44)
+![image](https://github.com/ez0130/ez0130/assets/75259368/e40b6a08-0f13-4860-8ee7-d82e0c3562c7)
 
-R AWS GCP Ubuntu CentOS
-
-MySQL PostgreSQL Docker Kubernetes Tableau Power Bi ArcGIS Seaborn
-
-LeetCode user ez0130
-
+![image](https://github.com/ez0130/ez0130/assets/75259368/c51bf26d-2193-4535-a27d-15a0658b8744)
+[ ez0130
+](https://leetcode.com/ez0130)
 •	Designed, built, and maintained data pipelines and ETL processes
 •	Developed and maintain data warehouse and data lake solutions
 •	Using BigQuery connector and PostgreSQL in python, built data pipelines and ETL Processes
