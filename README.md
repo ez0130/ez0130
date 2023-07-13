@@ -24,6 +24,7 @@ LinkedIn: [linkedin.com/in/jiyoung-lee-b62663211](https://www.linkedin.com/in/ji
 
 Skills
 🛠️ Techs that I've used at least once:
+
 ![image](https://github.com/ez0130/ez0130/assets/75259368/3fd8b832-1bb8-42dc-b5c1-7fb110dca73d)
 ![image](https://github.com/ez0130/ez0130/assets/75259368/bfd804ad-98a2-4e95-b88d-ac1856593cad)
 ![image](https://github.com/ez0130/ez0130/assets/75259368/20f4f0d2-371f-4e93-9f36-4525c85bdf03)
