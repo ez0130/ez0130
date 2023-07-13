@@ -55,22 +55,22 @@ Skills
 •	Proven analytical and problem-solving abilities
 
 
-Education
+# Education
 
-Sejong Cyber University  - Seoul, South Korea
+## Sejong Cyber University  - Seoul, South Korea
 2021.09. ~ 2023.08.
 B.S. in Computer AI & Engineering
 
-Daejeon University - Daejeon, South Korea
+## Daejeon University - Daejeon, South Korea
 2009.03. ~ 2015.02.
 B.A. in Korean Medicine
-
+'''
 Operating System(A+), Object-Oriented Programming(JAVA)(A+), Data Science(A+), Database Construction(A), Block Chain Security(A+), Big Data Understanding & Utilization(A+), AI in Silicon Valley(A+), Artificial Intelligence(A+), Computer Vision(A+), Text Analysis & Embedding(A+), Data Structure and Algorithm in Python(A+), Deep Learning(A+), Cloud Computing Foundations(A+), Data Visualization(A+), Big Data Analytics For Beginner(A+), Network Security(A+), Preparation of ADsP(Advanced Data Analytics Semi-Professional)(A+), Big Data Process Technology(A+), Convergence Service Implementation at Edge Level(A+), Interesting Statistics(A+), Unix & Linux System(A+), Math and python for data science and AI(A+), Web Data Analysis & Application(A+)
 4.40/4.50 GPA
-
-Experience
-Boosters - Data Engineer. Intern.
-
+'''
+# Experience
+## Boosters - Data Engineer. Intern.
+'''
 2022.07.04 ~ 2022.12.21
 Python, PHP, Google Compute Engine, BigQuery, MySQL, Apache Airflow, Tableau
 Developed automation process for data collection, refination for ERP 
@@ -83,14 +83,15 @@ Communication with finance team and marketers for data consistency
 Data collection and visualization tailored to employees' needs
 Cohort analysis and visualization of monthly and daily repurchase rates of customers on our e-commerce platform (Tableau)
 Visualization of monthly average revenue per user (ARPU) on our e-commerce platform with filtering options by brand and product (Tableau)
+'''
 
-MOOC
+# MOOC
 SQL Fundamentals Track - Datacamp
 AWS Cloud Practitioner Essentials
 BigQuery for Data Warehousing
 Kubernetes for the Absolute Beginners
 
-Study
+# Study
 Data science study group (2021.03. ~ 2021.10.)
 Github
 EdX
@@ -106,7 +107,7 @@ NoSQL Database Basics - IBM
 Building ETL and Data Pipelines with Bash, Airflow and Kafka - IBM
 Data Warehousing and BI Analytics - IBM
 
-Projects
+# Projects
 Stock Price Analysis using NLP
 Classifying fashion MNIST data with CNN - Tensorflow, Keras
 Credit Card Fraud Detection - Numpy, Pandas, Scikit learn,  DataFrame
@@ -116,6 +117,6 @@ Using AWS Step Function or GCP Cloud Function, build serverless data pipeline
 Hadoop, Hive
 Build data pipeline using NoSQL database
 
-Certifications
+# Certifications
 AWS Certification: Solutions Architect
 Github Actions CI/CD project
