@@ -40,6 +40,8 @@ Skills
 ![image](https://github.com/ez0130/ez0130/assets/75259368/c51bf26d-2193-4535-a27d-15a0658b8744)
 [ ez0130
 ](https://leetcode.com/ez0130)
+
+
 •	Designed, built, and maintained data pipelines and ETL processes
 •	Developed and maintain data warehouse and data lake solutions
 •	Using BigQuery connector and PostgreSQL in python, built data pipelines and ETL Processes
