@@ -22,6 +22,8 @@ Blog: [blog.naver.com/rasingriver](https://blog.naver.com/rasingriver)
 
 LinkedIn: [linkedin.com/in/jiyoung-lee-b62663211](https://www.linkedin.com/in/jiyoung-lee-b62663211/)
 
+
+
 ## Skills
 🛠️ Techs that I've used at least once:
 
