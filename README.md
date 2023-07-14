@@ -95,7 +95,10 @@ B.A. in Korean Medicine
 
 • Build data pipeline using NoSQL database
 
-
+• Get Certifications
+    • AWS Certification: Solutions Architec
+    
+    • Github Actions CI/CD project
 ## Experience
 
 ## Study
@@ -128,7 +131,4 @@ B.A. in Korean Medicine
 • Data Warehousing and BI Analytics - IBM
 
 
-## Certifications
-• AWS Certification: Solutions Architect
 
-• Github Actions CI/CD project
