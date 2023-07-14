@@ -54,8 +54,6 @@ LinkedIn: [linkedin.com/in/jiyoung-lee-b62663211](https://www.linkedin.com/in/ji
 • Developed and maintained code to pull and push data via API calls
 •	Good understanding of the organization’s goals and objectives and social science research methodology
 •	Proven analytical and problem-solving abilities
-
-
 ## Education
 
 ### Sejong Cyber University  - Seoul, South Korea
@@ -69,32 +67,22 @@ B.A. in Korean Medicine
 • Operating System(A+), Object-Oriented Programming(JAVA)(A+), Data Science(A+), Database Construction(A), Block Chain Security(A+), Big Data Understanding & Utilization(A+), AI in Silicon Valley(A+), Artificial Intelligence(A+), Computer Vision(A+), Text Analysis & Embedding(A+), Data Structure and Algorithm in Python(A+), Deep Learning(A+), Cloud Computing Foundations(A+), Data Visualization(A+), Big Data Analytics For Beginner(A+), Network Security(A+), Preparation of ADsP(Advanced Data Analytics Semi-Professional)(A+), Big Data Process Technology(A+), Convergence Service Implementation at Edge Level(A+), Interesting Statistics(A+), Unix & Linux System(A+), Math and python for data science and AI(A+), Web Data Analysis & Application(A+)
 • 4.40/4.50 GPA
 
+## Projects
+• Stock Price Analysis using NLP
+• Classifying fashion MNIST data with CNN - Tensorflow, Keras
+• Credit Card Fraud Detection - Numpy, Pandas, Scikit learn,  DataFrame
+
+## Plans
+• Build Airflow Kubernetes Executor Environment
+• Using AWS Step Function or GCP Cloud Function, build serverless data pipeline 
+• Hadoop, Hive
+• Build data pipeline using NoSQL database
+
+
 ## Experience
 
-### Boosters - Data Engineer. Intern.
-
-2022.07.04 ~ 2022.12.21
-• Python, PHP, Google Compute Engine, BigQuery, MySQL, Apache Airflow, Tableau
-• Developed automation process for data collection, refination for ERP 
-• Using actual real-time customer order, composed Data Warehouse using real-time transaction (crawling, API)
-• Wrote Query code for Data Mart (BigQuery, MySQL)
-• Using Airflow , applied on DAG and Mysql as backend DataBase
-• Due to the difficulty in utilizing the Kubernetes executor, I was unable to complete the workflow configuration and handed over the subsequent steps to a senior colleague.
-• Git, Github branching operations and Pull Request
-• Communication with finance team and marketers for data consistency
-• Data collection and visualization tailored to employees' needs
-• Cohort analysis and visualization of monthly and daily repurchase rates of customers on our e-commerce platform (Tableau)
-• Visualization of monthly average revenue per user (ARPU) on our e-commerce platform with filtering options by brand and product (Tableau)
-
-
-## MOOC
-• SQL Fundamentals Track - Datacamp
-• AWS Cloud Practitioner Essentials
-• BigQuery for Data Warehousing
-• Kubernetes for the Absolute Beginners
-
 ## Study
-•Data science study group (2021.03. ~ 2021.10.)
+•Data science 
 •Github
 
 ### EdX
@@ -109,17 +97,6 @@ B.A. in Korean Medicine
 • NoSQL Database Basics - IBM
 • Building ETL and Data Pipelines with Bash, Airflow and Kafka - IBM
 • Data Warehousing and BI Analytics - IBM
-
-## Projects
-• Stock Price Analysis using NLP
-• Classifying fashion MNIST data with CNN - Tensorflow, Keras
-• Credit Card Fraud Detection - Numpy, Pandas, Scikit learn,  DataFrame
-
-## Plans
-• Build Airflow Kubernetes Executor Environment
-• Using AWS Step Function or GCP Cloud Function, build serverless data pipeline 
-• Hadoop, Hive
-• Build data pipeline using NoSQL database
 
 ## Certifications
 • AWS Certification: Solutions Architect
