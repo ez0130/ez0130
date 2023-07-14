@@ -80,35 +80,55 @@ B.A. in Korean Medicine
 
 ## Projects
 • Stock Price Analysis using NLP
+
 • Classifying fashion MNIST data with CNN - Tensorflow, Keras
+
 • Credit Card Fraud Detection - Numpy, Pandas, Scikit learn,  DataFrame
+
 
 ## Plans
 • Build Airflow Kubernetes Executor Environment
+
 • Using AWS Step Function or GCP Cloud Function, build serverless data pipeline 
+
 • Hadoop, Hive
+
 • Build data pipeline using NoSQL database
 
 
 ## Experience
 
 ## Study
+
 •Data science 
+
 •Github
 
 ### EdX
 • Linux Commands & Shell Scripting Basics - IBM
+
 • Data Science and Machine Learning Capstone Project - IBM
+
 • Visualizing Data with Python - IBM
+
 • Python for Data Science Project - IBM
+
 • SQL Concepts for Data Engineers - IBM
+
 • Python for Data Engineering Project - IBM
+
 • Relational Database Administration (DBA) - IBM
+
 • Apache Spark for Data Engineering and Machine Learning - IBM
+
 • NoSQL Database Basics - IBM
+
 • Building ETL and Data Pipelines with Bash, Airflow and Kafka - IBM
+
 • Data Warehousing and BI Analytics - IBM
+
 
 ## Certifications
 • AWS Certification: Solutions Architect
+
 • Github Actions CI/CD project
