@@ -96,10 +96,11 @@ B.A. in Korean Medicine
 • Build data pipeline using NoSQL database
 
 • Get Certifications
+
     • AWS Certification: Solutions Architec
     
     • Github Actions CI/CD project
-## Experience
+
 
 ## Study
 
