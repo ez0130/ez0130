@@ -73,12 +73,14 @@ LinkedIn: [linkedin.com/in/jiyoung-lee-b62663211](https://www.linkedin.com/in/ji
 2021.09. ~ 2023.08.
 B.S. in Computer AI & Engineering
 
+• Operating System(A+), Object-Oriented Programming(JAVA)(A+), Data Science(A+), Database Construction(A), Block Chain Security(A+), Big Data Understanding & Utilization(A+), AI in Silicon Valley(A+), Artificial Intelligence(A+), Computer Vision(A+), Text Analysis & Embedding(A+), Data Structure and Algorithm in Python(A+), Deep Learning(A+), Cloud Computing Foundations(A+), Data Visualization(A+), Big Data Analytics For Beginner(A+), Network Security(A+), Preparation of ADsP(Advanced Data Analytics Semi-Professional)(A+), Big Data Process Technology(A+), Convergence Service Implementation at Edge Level(A+), Interesting Statistics(A+), Unix & Linux System(A+), Math and python for data science and AI(A+), Web Data Analysis & Application(A+)
+• 4.40/4.50 GPA
+
 ### Daejeon University - Daejeon, South Korea
 2009.03. ~ 2015.02.
 B.A. in Korean Medicine
 
-• Operating System(A+), Object-Oriented Programming(JAVA)(A+), Data Science(A+), Database Construction(A), Block Chain Security(A+), Big Data Understanding & Utilization(A+), AI in Silicon Valley(A+), Artificial Intelligence(A+), Computer Vision(A+), Text Analysis & Embedding(A+), Data Structure and Algorithm in Python(A+), Deep Learning(A+), Cloud Computing Foundations(A+), Data Visualization(A+), Big Data Analytics For Beginner(A+), Network Security(A+), Preparation of ADsP(Advanced Data Analytics Semi-Professional)(A+), Big Data Process Technology(A+), Convergence Service Implementation at Edge Level(A+), Interesting Statistics(A+), Unix & Linux System(A+), Math and python for data science and AI(A+), Web Data Analysis & Application(A+)
-• 4.40/4.50 GPA
+
 
 ## Projects
 • Stock Price Analysis using NLP
@@ -86,6 +88,8 @@ B.A. in Korean Medicine
 • Classifying fashion MNIST data with CNN - Tensorflow, Keras
 
 • Credit Card Fraud Detection - Numpy, Pandas, Scikit learn,  DataFrame
+
+• Crime Analysis - Python, API, Folium, Numpy, Tableau
 
 
 ## Plans
