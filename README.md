@@ -44,16 +44,27 @@ LinkedIn: [linkedin.com/in/jiyoung-lee-b62663211](https://www.linkedin.com/in/ji
 
 
 •	Designed, built, and maintained data pipelines and ETL processes
+
 •	Developed and maintain data warehouse and data lake solutions
+
 •	Using BigQuery connector and PostgreSQL in python, built data pipelines and ETL Processes
+
 •	Monitored and troubleshoot data pipelines and systems
-•	Have a Experience with AWS EB2 and DataBricks
+
+•	Had a Experience with AWS EB2 and DataBricks
+
 •	Used Git and Github for branch process and pull request experience
+
 •	Created pipeline to get stock price and sentimental score into Postgresql database
+
 •	Used nltk library for NLP and sentiment analysis. 
+
 • Developed and maintained code to pull and push data via API calls
+
 •	Good understanding of the organization’s goals and objectives and social science research methodology
+
 •	Proven analytical and problem-solving abilities
+
 ## Education
 
 ### Sejong Cyber University  - Seoul, South Korea
