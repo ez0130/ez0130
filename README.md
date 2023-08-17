@@ -93,6 +93,10 @@ B.A. in Korean Medicine
 
 • Houston Evacuation Map - ArcGIS
 
+## Certification
+Oracle Cloud Data Management 2023 Certified Foundations Associate -2023 
+https://drive.google.com/file/d/1gXdZJsGARt4JAQo-eeWklx0rLyZuZnsX/view?usp=sharing
+
 ## Plans
 • Build Airflow Kubernetes Executor Environment
 
