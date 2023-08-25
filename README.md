@@ -97,6 +97,10 @@ B.A. in Korean Medicine
 Oracle Cloud Data Management 2023 Certified Foundations Associate -2023 
 https://drive.google.com/file/d/1gXdZJsGARt4JAQo-eeWklx0rLyZuZnsX/view?usp=sharing
 
+Oracle Cloud Infrastructure 2023 Data Science Professional - 2023
+https://drive.google.com/file/d/1AypDLq26yxN0NtLL9rb3R64cH--u_4nJ/view?usp=sharing
+
+
 ## Plans
 • Build Airflow Kubernetes Executor Environment
 
