@@ -47,8 +47,6 @@ LinkedIn: [linkedin.com/in/jiyoung-lee-b62663211](https://www.linkedin.com/in/ji
 
 •	Designed, built, and maintained data pipelines and ETL processes
 
-•	Developed and maintain data warehouse and data lake solutions
-
 •	Using BigQuery connector and PostgreSQL in python, built data pipelines and ETL Processes
 
 •	Monitored and troubleshoot data pipelines and systems
@@ -61,7 +59,7 @@ LinkedIn: [linkedin.com/in/jiyoung-lee-b62663211](https://www.linkedin.com/in/ji
 
 •	Used nltk library for NLP and sentiment analysis. 
 
-• Developed and maintained code to pull and push data via API calls
+•   Developed and maintained code to pull and push data via API calls
 
 •	Good understanding of the organization’s goals and objectives and social science research methodology
 
@@ -146,5 +144,7 @@ https://drive.google.com/file/d/1AypDLq26yxN0NtLL9rb3R64cH--u_4nJ/view?usp=shari
 
 • Data Warehousing and BI Analytics - IBM
 
+### Working on it 
 
+Developing and maintaining data warehouse and data lake solutions
 
