@@ -18,8 +18,6 @@ Jiyoung Lee (Ji)
 
 Email: eji0130@gmail.com 
 
-Blog: [blog.naver.com/rasingriver](https://blog.naver.com/rasingriver) 
-
 LinkedIn: [linkedin.com/in/jiyoung-lee-b62663211](https://www.linkedin.com/in/jiyoung-lee-b62663211/)
 
 
@@ -28,8 +26,6 @@ LinkedIn: [linkedin.com/in/jiyoung-lee-b62663211](https://www.linkedin.com/in/ji
 🛠️ Techs that I've used at least once:
 
 ![image](https://github.com/ez0130/ez0130/assets/75259368/3fd8b832-1bb8-42dc-b5c1-7fb110dca73d)
-![image](https://github.com/ez0130/ez0130/assets/75259368/bfd804ad-98a2-4e95-b88d-ac1856593cad)
-![image](https://github.com/ez0130/ez0130/assets/75259368/20f4f0d2-371f-4e93-9f36-4525c85bdf03)
 ![image](https://github.com/ez0130/ez0130/assets/75259368/a5c362bf-6644-4e33-892d-9b5cea9dbe23)
 ![image](https://github.com/ez0130/ez0130/assets/75259368/668979f1-3302-405b-85fe-67cf25fca9d0)
 ![image](https://github.com/ez0130/ez0130/assets/75259368/e2859e92-f4b6-4da2-bac5-d459776dc5fb)
@@ -45,19 +41,19 @@ LinkedIn: [linkedin.com/in/jiyoung-lee-b62663211](https://www.linkedin.com/in/ji
 ](https://leetcode.com/ez0130)
 
 
-•	Designed, built, and maintained data pipelines and ETL processes
+•	Troubleshoot and resolve hardware and software issues for equipment, desktops, laptops, and peripherals
 
-•	Using BigQuery connector and PostgreSQL in python, built data pipelines and ETL Processes
+•	Installing, configuring, and maintaining various operating systems and software applications
 
-•	Monitored and troubleshoot data pipelines and systems
-
-•	Had a Experience with AWS EB2 and DataBricks
+•	Providing exceptional customer service by actively listening to user concerns, diagnosing problems efficiently, and delivering clear solutions.
 
 •	Used Git and Github for branch process and pull request experience
 
 •	Created pipeline to get stock price and sentimental score into Postgresql database
 
-•	Used nltk library for NLP and sentiment analysis. 
+•	 Preparing technical documentation, maintenance reports, and operational manuals for systems. Documented system configurations, troubleshooting procedures, and maintenance schedules.
+
+•	 Used nltk library for NLP and sentiment analysis. 
 
 •   Developed and maintained code to pull and push data via API calls
 
@@ -81,6 +77,9 @@ B.A. in Korean Medicine
 
 
 ## Projects
+• Network Packet Sniffer using Python(scapy)
+• Active Directory set up with VirtualBox
+
 • Stock Price Analysis using NLP
 
 • Classifying fashion MNIST data with CNN - Tensorflow, Keras
@@ -98,47 +97,30 @@ https://drive.google.com/file/d/1gXdZJsGARt4JAQo-eeWklx0rLyZuZnsX/view?usp=shari
 Oracle Cloud Infrastructure 2023 Data Science Professional - 2023
 https://drive.google.com/file/d/1AypDLq26yxN0NtLL9rb3R64cH--u_4nJ/view?usp=sharing
 
+CompTIA Network+ - 2024
+https://drive.google.com/file/d/1oZZWiQomBuV_6n9khfIMDe0dioqKZD5X/view?usp=sharing
+
+Oracle Cloud Infrastructure 2023 Foundations Associate - 2023
+
+Google Analytics Individual Qualification - 2023
+
+
 
 ## Plans
-• Build Airflow Kubernetes Executor Environment
-
-• Using AWS Step Function or GCP Cloud Function, build serverless data pipeline 
-
-• Hadoop, Hive
-
-• Build data pipeline using NoSQL database
 
 • Get Certifications
 
-    • AWS Certification: Solutions Architec
-    
-    • Github Actions CI/CD project
-
+    • CompTia Security +
+    • CISSP
+    • AWS Certification
+ 
 
 ## Study
 
-•Data science 
+•Network
 
-•Github
+•CyberSecurity
 
-### EdX
-• Linux Commands & Shell Scripting Basics - IBM
-
-• Data Science and Machine Learning Capstone Project - IBM
-
-• Visualizing Data with Python - IBM
-
-• Python for Data Science Project - IBM
-
-• SQL Concepts for Data Engineers - IBM
-
-• Python for Data Engineering Project - IBM
-
-• Relational Database Administration (DBA) - IBM
-
-• Apache Spark for Data Engineering and Machine Learning - IBM
-
-• NoSQL Database Basics - IBM
 
 • Building ETL and Data Pipelines with Bash, Airflow and Kafka - IBM
 
