@@ -2,11 +2,11 @@ Hi there 👋
 I'm Jiyoung Lee (Ji) — a Network Engineer that interests in Cloud Engineering 🚀
 
 
-📫 Email: eji0130@gmail.com
-🔗 LinkedIn: linkedin.com/in/jiyoung-lee-b62663211
+  📫 Email: eji0130@gmail.com
+  🔗 LinkedIn: linkedin.com/in/jiyoung-lee-b62663211
 
 
-💼 About Me 
+  💼 About Me 
 
 Currently working as a Network Engineer at a Samsung vendor, where I manage and install enterprise-level network infrastructure. I hold CompTIA Network+, AWS Certified Cloud Practitioner, and CCNP ENCOR certifications.
 
@@ -14,7 +14,7 @@ I’m passionate about building scalable, automated, and secure network environm
 
 
 
-🛠️ Tech Stack & Tools
+  🛠️ Tech Stack & Tools
 Networking & Cloud:
 Cisco IOS | AWS | OCI | DHCP | DNS | NAT | Routing | Switching | VPC | EC2 | IAM
 
@@ -26,7 +26,7 @@ Wireshark | NetFlow | CloudWatch | GitHub | Jira
 
 
 
-📚 Education
+  📚 Education
 
 Sejong Cyber University – B.S. in Computer AI & Engineering
 2021.09 ~ 2023.08, GPA: 4.40/4.50
@@ -38,7 +38,7 @@ Daejeon University – B.A. in Korean Medicine
 
 
 
-💡 Projects
+  💡 Projects
 
 Active Directory Setup – Configured AD and DNS with VirtualBox
 
@@ -52,7 +52,7 @@ Fashion MNIST Classification – CNN with TensorFlow/Keras
 
 
 
-🧾 Certifications
+  🧾 Certifications
 
 AWS Certified Cloud Practitioner – 2025
 
@@ -68,7 +68,7 @@ Google Analytics Individual Qualification – 2023
 
 
 
-🚀 Career Goals & Plans
+  🚀 Career Goals & Plans
 In Progress:
 Studying Terraform for Infrastructure as Code (IaC)
 
@@ -85,7 +85,7 @@ AWS Solutions Architect
 
 
 
-🔍 Focus Areas
+  🔍 Focus Areas
 Networking (Routing, Switching, Security)
 
 Cloud Infrastructure & Automation
