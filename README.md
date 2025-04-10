@@ -7,7 +7,7 @@ I'm Jiyoung Lee (Ji) — a Network Engineer that interests in Cloud Engineering 
 
 
   💼 About Me 
-
+\n
 Currently working as a Network Engineer at a Samsung vendor, where I manage and install enterprise-level network infrastructure. I hold CompTIA Network+, AWS Certified Cloud Practitioner, and CCNP ENCOR certifications.
 
 I’m passionate about building scalable, automated, and secure network environments on the cloud using tools like Terraform, AWS, and Python.
